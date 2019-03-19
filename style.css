@@ -1,0 +1,15 @@
+#main {
+    margin: 0 auto;  
+    text-align: center;
+}
+#tm {
+    font-size: 72px;
+}
+#select {
+    position: relative;
+    margin-top: 1%;
+}
+p{
+    font-size: 48px;
+    padding-top: 30px;
+}
